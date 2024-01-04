@@ -1,5 +1,5 @@
 public class sai{
 public static void main(String[] args) {
-    System.out.println("suman my love");
+    System.out.println("swarna is chikus dreamgirl");
 }
 }
